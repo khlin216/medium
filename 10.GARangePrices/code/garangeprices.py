@@ -20,7 +20,7 @@ pd.options.mode.chained_assignment = None
 def get_data(timeframe, length):
 
     # Read the data
-    df = pd.read_csv(f'OIH_{timeframe}.csv.gz', compression='gzip')
+    df = pd.read_csv(f'/media/alexlin/Code&Data/medium/01.Preparation/code/OIH_{timeframe}.csv.gz', compression='gzip')
 
     # Get close in LEN bars in the future
     df['close_future'] = df['close'].shift(-length)

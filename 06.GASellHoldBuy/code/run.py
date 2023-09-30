@@ -16,7 +16,7 @@ SOLUTIONS = 20
 GENERATIONS = 50
 
 # Loading data, and split in train and test datasets
-df = pd.read_csv('OIH_1H.csv.gz', compression='gzip')
+df = pd.read_csv(f'/media/alexlin/Code&Data/medium/01.Preparation/code/OIH_1H.csv.gz', compression='gzip')
 df.ta.bbands(close=df['close'], length=20, append=True)
 df = df.dropna()
 pd.options.mode.chained_assignment = None
