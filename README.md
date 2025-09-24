@@ -28,9 +28,14 @@ Please note that the information and code provided in this repository is for edu
 08.GABBStrategy: 
 - OIH: https://medium.com/@diegodegese/ef4c0a83ec10
 - SPY: https://medium.com/@diegodegese/b87907dd62a7
-- TSLA: TBD
+- TSLA: https://medium.com/@diegodegese/86623e466999
+- GM: https://medium.com/@diegodegese/25aa6c3b8157
+- XOM: https://medium.com/@diegodegese/7c1ee226cabb
+- SPY (Reversal Strategy): https://medium.com/@diegodegese/7bf687ee00a2
 
-09.CryptoDataDownload: https://medium.com/@diegodegese/4e0525d3ecd9
+09.CryptoDataDownload: 
+- CryptoDataDownload: https://medium.com/@diegodegese/4e0525d3ecd9
+- BinanceDataDownload: https://medium.com/@diegodegese/6e94dbb5c316
 
 10.GARangePrices: https://medium.com/@diegodegese/fe9ed1081f8a
 
@@ -65,3 +70,46 @@ Please note that the information and code provided in this repository is for edu
 
 17.TrendFollowing:
 - SPY: https://medium.com/@diegodegese/ec02474169ba
+
+18.BestPossibleStrategy:
+- SPY: https://medium.com/@diegodegese/6a7bb56c51c4
+
+19.MarketSentiment: 
+- Part 1: https://medium.com/@diegodegese/b07a35752b57
+- Part 2: https://medium.com/@diegodegese/4ac9d73af75f
+
+20.GAMACDStrategy:
+- Part 1: https://medium.com/@diegodegese/5c953d20e836
+- Part 2: https://medium.com/@diegodegese/3958aff26d0a
+
+21.ControlChartStrategy: 
+- Rules 1 to 6: https://medium.com/@diegodegese/f6e9aca3d8a0
+
+22.MarketDataDownload:
+- Polygon Options: https://medium.com/@diegodegese/e20d46cbef3
+- TradingView Downloader: https://medium.com/@diegodegese/1b4edb68492a
+
+23.OptionsStrategy:
+- SPY 1-minute Options (0DTE - Iron Condor): https://medium.com/@diegodegese/752289bbdfcc
+- SPY 1-minute Options (0DTE - Credit Spread): https://medium.com/@diegodegese/03f9260a229c
+- QQQ 1-minute Options (0DTE - Credit Spread): https://medium.com/@diegodegese/ba271cf4951b
+- SPX 1-minute Options (0DTE - Credit Spread): https://medium.com/@diegodegese/9ff9d9dd8e96
+
+24.TradingAlert:
+- SPY: https://medium.com/@diegodegese/860deb3d2306
+
+25.BBGASeries
+- SPY: https://medium.com/@diegodegese/839db4aa9173
+- AAPL: https://medium.com/@diegodegese/769d16def2ce
+- QQQ: https://medium.com/@diegodegese/8e672bc7775e
+- KO: https://medium.com/@diegodegese/807d8cd26892
+- DIA: https://medium.com/@diegodegese/283f3dcd29cf
+- MCD: https://medium.com/@diegodegese/ebbe2705ba12
+- IWM: https://medium.com/@diegodegese/ad404d807d1f
+- AXP: https://medium.com/@diegodegese/cdfba58deaf5
+- V: https://medium.com/@diegodegese/84c504621a18
+- GDX: https://medium.com/@diegodegese/11b4cd84de8c
+- MSFT: https://medium.com/@diegodegese/4e0ca2e92d87
+- MRK: https://medium.com/@diegodegese/f50e7a326427
+- SLV: https://medium.com/@diegodegese/96dab85b4af6
+- NKE: https://medium.com/@diegodegese/23696395b644
